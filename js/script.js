@@ -1,4 +1,4 @@
-// Your Giphy API key
+// Giphy API key
 const API_KEY = "jHLMSWS5wX18DgvfKS35bqAqL9JJmdcw";
 
 // Select HTML elements
