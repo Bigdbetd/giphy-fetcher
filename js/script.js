@@ -1,4 +1,4 @@
-const API_KEY = jHLMSWS5wX18DgvfKS35bqAqL9JJmdcw; 
+const API_KEY = "jHLMSWS5wX18DgvfKS35bqAqL9JJmdcw"; 
 const searchInput = document.querySelector("#search-input");
 const fetchBtn = document.querySelector("#fetch-gif-btn");
 const gifContainer = document.querySelector("#gif-container");
